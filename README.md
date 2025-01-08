@@ -46,6 +46,6 @@
 <a href="https://www.linkedin.com/in/azlan-malik-aa9460257/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Azlan Malik LinkedIn" height="30" width="40" />
 </a>
-    - 📫 **Reach Me At:** [azlanmalikai@gmail.com](mailto:azlanmalikai@gmail.com)  
+   
 
 </p>
