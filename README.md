@@ -8,8 +8,8 @@
 ---
 
 ### About Me
--  **Current Project:** Bluetooth Hand Gesture Controller  
--  **Learning Focus:** Computer Vision & Advanced AI Agents  
+-  **Current Project:** Ai Agentic Models
+-  **Learning Focus:**  Advanced AI Agents  
 -  **Looking to Collaborate On:** AI & ML Projects  
 -  **Open to Discuss:** Advanced Machine Learning Techniques  
 -  **Expertise:** Machine Learning, Deep Learning, Data Science  
