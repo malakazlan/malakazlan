@@ -7,20 +7,20 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 **Current Project:** Bluetooth Hand Gesture Controller  
-- 🌱 **Learning Focus:** Computer Vision & Advanced AI Agents  
-- 👯 **Looking to Collaborate On:** AI & ML Projects  
-- 🤝 **Open to Discuss:** Advanced Machine Learning Techniques  
-- 💬 **Expertise:** Machine Learning, Deep Learning, Data Science  
-- 📫 **Reach Me At:** [azlanmalikai@gmail.com](mailto:azlanmalikai@gmail.com)  
-- 👨‍💻 **Portfolio:** [GitHub Projects](https://github.com/malakazlan/)  
-- 📄 **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/azlan-malik-aa9460257/)  
+### About Me
+-  **Current Project:** Bluetooth Hand Gesture Controller  
+-  **Learning Focus:** Computer Vision & Advanced AI Agents  
+-  **Looking to Collaborate On:** AI & ML Projects  
+-  **Open to Discuss:** Advanced Machine Learning Techniques  
+-  **Expertise:** Machine Learning, Deep Learning, Data Science  
+-  **Reach Me At:** [azlanmalikai@gmail.com](mailto:azlanmalikai@gmail.com)  
+-  **Portfolio:** [GitHub Projects](https://github.com/malakazlan/)  
+-  **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/azlan-malik-aa9460257/)  
 - ⚡ **Fun Fact:** I enjoy solving real-world problems with AI and exploring new technologies!
 
 ---
 
-### 🛠 Languages & Tools
+###  Languages & Tools
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a> 
@@ -46,4 +46,6 @@
 <a href="https://www.linkedin.com/in/azlan-malik-aa9460257/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Azlan Malik LinkedIn" height="30" width="40" />
 </a>
+    - 📫 **Reach Me At:** [azlanmalikai@gmail.com](mailto:azlanmalikai@gmail.com)  
+
 </p>
