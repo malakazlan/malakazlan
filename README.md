@@ -1,12 +1,9 @@
 <h1 align="center">
   👋 Welcome to My Lab
 </h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/malakazlan/malakazlan/main/assets/dev-working-laptop.svg" alt="Developer at work" width="300"/>
-</p>
 
 <p align="center">
-  <b>AI Engineer | Systems Developer | Applied Researcher</b><br>
+  <b>AI Engineer | GenAI & LLMs | Multi-Agent Systems | Multimodal AI |Applied Researcher</b><br>
   Focused on practical applications of agentic AI, automation, and system-level intelligence.
 </p>
 
