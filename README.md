@@ -2,6 +2,10 @@
   👋 Welcome to My Lab
 </h1>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/malakazlan/malakazlan/main/assets/dev-working-laptop.svg" alt="Developer at work" width="300"/>
+</p>
+
+<p align="center">
   <b>AI Engineer | Systems Developer | Applied Researcher</b><br>
   Focused on practical applications of agentic AI, automation, and system-level intelligence.
 </p>
@@ -28,7 +32,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
