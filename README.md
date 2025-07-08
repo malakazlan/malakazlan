@@ -82,20 +82,3 @@
 </p>
 
 ---
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malakazlan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="47%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malakazlan&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Streak" />
-</p>
----
-
-## 📄 Articles *(Coming Soon)*
-
-- The Role of Memory in LLM Agents  
-- A Practical Guide to Building Multi-Agent Architectures  
-- Challenges of Reinforcement Learning in Production
-
----
-
-<h3 align="center">Let’s collaborate and solve problems that matter.</h3>
