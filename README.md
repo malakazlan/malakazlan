@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hello, I'm <span style="color:#00D8FF">Azira Malik</span>
+  👋 Hello, I'm <span style="color:#00D8FF">Azlan Malik</span>
 </h1>
 <p align="center">
   <b>Building Autonomous, Intelligent Systems that Think, Learn, and Act ⚙️🧠</b><br>
