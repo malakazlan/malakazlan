@@ -49,10 +49,51 @@
 
 ---
 
-### 🚀 Current Build Mode
 
-```yaml
-- [x] Build: Agentic LLM Agents (LangGraph, ReAct, Tools, Memory)
-- [x] Design: Multi-Agent Academic Assistants using CrewAI
-- [x] Create: Kernel + Task Scheduling in custom mini OS
-- [x] Explore: LLM Planning, Reasoning, and Feedback Loops
+---
+
+### 🧰 Tech Stack & Tools
+
+- **Languages:** Python, JavaScript, C++
+- **Frameworks:** PyTorch, TensorFlow, LangChain, Ray
+- **Agentic AI:** OpenAI APIs, AutoGen, CrewAI, AutoGPT, BabyAGI
+- **DevOps:** Docker, Kubernetes, AWS, GCP
+- **Tools:** VS Code, Jupyter, Git, FastAPI
+
+---
+
+### 🔭 Current Projects
+
+- **Autonomous AI Agents:** Architecting and deploying multi-agent systems for real-world problem-solving.
+- **LLM Applications:** Integrating LLMs into agentic workflows for dynamic task automation.
+- **Open Source Contributions:** Actively contributing to AI and agentic intelligence projects.
+
+---
+
+### 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/malakazlan](https://linkedin.com/in/malakazlan)
+- Twitter/X: [@malakazlan](https://twitter.com/malakazlan)
+- Email: malakazlan@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=malakazlan&show_icons=true&theme=radical" alt="malakazlan"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malakazlan&theme=radical" alt="malakazlan"/>
+</p>
+
+---
+
+### 📝 Featured Articles
+
+- [The Future of Agentic AI](#)
+- [Building Scalable Multi-Agent Systems](#)
+- [LLMs and Autonomous Decision Making](#)
+
+---
+
+### 🤝 Let's Build the Future of AI—Together!
+
